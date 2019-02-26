@@ -115,6 +115,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>org.greenrobot</groupId>
+      <artifactId>greendao</artifactId>
+      <version>3.2.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.android.volley</groupId>
       <artifactId>volley</artifactId>
       <version>1.1.0</version>
