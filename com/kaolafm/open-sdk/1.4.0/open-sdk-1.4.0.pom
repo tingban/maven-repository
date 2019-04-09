@@ -121,9 +121,27 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.volley</groupId>
-      <artifactId>volley</artifactId>
-      <version>1.1.0</version>
+      <groupId>com.kaolafm</groupId>
+      <artifactId>kradio-base-util</artifactId>
+      <version>1.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.kaolafm</groupId>
+      <artifactId>kradio-playlist</artifactId>
+      <version>1.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.kaolafm</groupId>
+      <artifactId>kradio-player-sdk</artifactId>
+      <version>1.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.kaolafm</groupId>
+      <artifactId>kradio-report-sdk</artifactId>
+      <version>1.0.1</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
